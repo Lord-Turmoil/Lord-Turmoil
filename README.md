@@ -1,4 +1,4 @@
-### <div align="center">Hello there! I'm Tony, A.K.A. Turmoil 👻</div>  
+### <div align="center">Hello there! I'm Tony Skywalker, A.K.A. Lord Turmoil 👻</div>  
 
 - 🔬 I'm currently a student majoring in Software Engineering.  
 
@@ -49,21 +49,14 @@
 
 <br/>  
 
-## Connect with me  
+---
+
 <div align="center">
 <a href="https://github.com/Lord-Turmoil" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/Lord--Turmoil-GitHub-purple?style=plastic&logo=github" alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Lord-Turmoil" target="_blank">
+<img src="https://img.shields.io/badge/Lord_Turmoil-BiliBili-00A1D6?style=plastic&logo=bilibili" alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
-  
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lord-Turmoil&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
-
-<br/>  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
