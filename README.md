@@ -51,10 +51,10 @@
 
 <div align="center">
 <a href="https://github.com/Lord-Turmoil" target="_blank">
-<img src="https://img.shields.io/badge/Lord--Turmoil-GitHub-purple?style=plastic&logo=github" alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Lord--Turmoil-GitHub-purple?style=plastic&logo=github" alt="github" style="margin: 5px;" />
 </a>
-<a href="https://github.com/Lord-Turmoil" target="_blank">
-<img src="https://img.shields.io/badge/Lord_Turmoil-BiliBili-00A1D6?style=plastic&logo=bilibili" alt=github style="margin-bottom: 5px;" />
+<a href="https://space.bilibili.com/2030942344" target="_blank">
+<img src="https://img.shields.io/badge/Lord_Turmoil-BiliBili-00A1D6?style=plastic&logo=bilibili" alt="bilibili" style="margin: 5px;" />
 </a>
 </div>  
 <br/>  
