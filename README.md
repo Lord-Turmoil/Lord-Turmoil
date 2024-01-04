@@ -13,7 +13,7 @@ And I...
 - 💖 Love C++ & C# over other languages.
 - 🛸 Fly solo... 🥺
 
-👀 Come and visit [Tony's Studio](https://www.tonys-studio.top/).  
+Come and visit [Tony's Studio](https://www.tonys-studio.top/). 👀
   
 <br/>  
 
