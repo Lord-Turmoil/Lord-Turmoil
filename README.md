@@ -1,12 +1,19 @@
-### <div align="center">Hello there! I'm Tony Skywalker, A.K.A. Lord Turmoil 👻</div>  
+## Я Tony Skywalker, a.k.a. Lord Turmoil 👻
 
-- 🔬 I'm currently a student majoring in Software Engineering.  
+I'm a...
 
-- 💖I love C++ & C# over other languages.  
+- 🔬 Student majoring in Software Engineering.
+- 💻 Computer fanatic.
+- 🎧 Music hobbyiest.
+- 🌌 Star Wars fan.
+- 🎮 Command & Conquer player.
 
-- 🛸For now, I fly solo.  
+And I...
 
-- 👀 Come and visit [Tony's Studio](https://www.tonys-studio.top/).  
+- 💖 Love C++ & C# over other languages.
+- 🛸 Fly solo... 🥺
+
+👀 Come and visit [Tony's Studio](https://www.tonys-studio.top/).  
   
 <br/>  
 
