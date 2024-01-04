@@ -4,7 +4,7 @@ I'm a...
 
 - 🔬 Student majoring in Software Engineering.
 - 💻 Computer fanatic.
-- 🎧 Music hobbyiest.
+- 🎧 Music hobbyist.
 - 🌌 Star Wars fan.
 - 🎮 Command & Conquer player.
 
