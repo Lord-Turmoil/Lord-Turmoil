@@ -6,7 +6,7 @@ I'm a...
 - 💻 Computer fanatic.
 - 🎧 Music hobbyist.
 - 🌌 Star Wars fan.
-- 🎮 Command & Conquer player.
+- 🎮 C&C3: Kane's Wrath amateur. (On [GameRanger](https://www.gameranger.com/))
 
 And I...
 
