@@ -61,5 +61,4 @@ Come and visit [Tony's Studio](https://www.tonys-studio.top/). 👀
 <a href="https://github.com/Lord-Turmoil" target="_blank"><img src="https://komarev.com/ghpvc/?username=Lord-Turmoil&&style=flat-square&&color=red" alt="visit" style="margin: 5px;" /></a>
 <a href="https://github.com/Lord-Turmoil" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Stars%20Earned&color=E3B341&style=flat-square&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Lord-Turmoil" alt="star" style="margin: 5px;"/></a>
 <a href="https://space.bilibili.com/2030942344" target="_blank"><img src="https://img.shields.io/badge/Lord_Turmoil-BiliBili-00A1D6?style=flat-square&logo=bilibili" alt="bilibili" style="margin: 5px;" /></a>
-<a href="https://www.tonys-studio.top/support/" target="_blank"><img src="https://img.shields.io/badge/Support_Me-WeChat_Pay-07C160?style=flat-square&logo=wechat" alt="By me a coffee" style="margin: 5px;" /></a>
 </div>
